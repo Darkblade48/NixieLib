@@ -1,0 +1,9 @@
+#pragma once
+#include "NixieEffect.h"
+#include "NixieEffect_DigitSpin.h"
+#include "NixieEffect_Crossfade.h"
+#include "NixieEffect_Displace.h"
+#include "NixieEffect_Glitch.h"
+#include "NixieEffect_SmoothChange.h"
+#include "NixieEffect_SlotMachine.h"
+#include "NixieEffect_Embers.h"
